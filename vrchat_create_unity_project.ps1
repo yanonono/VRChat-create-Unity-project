@@ -1,6 +1,7 @@
 # VRChat用のUnityProjectを作成するPowershell
 # - 2020/06/14 初版
 # - 2020/06/15 Powershell 5.x系対応
+# - 2020/06/18 githubでソースコード管理を始める
 
 $UNITY_VERSION = "2018.4.20f1"
 $NOWDATE = (Get-Date).ToLocalTime().ToString("yyyyMMdd-HHmmss")
