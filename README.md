@@ -1,4 +1,4 @@
-現在のステータス: version: Alpha
+現在のステータス: version: Alpha 開発中
 
 # VRChat-create-Unity-project
 
