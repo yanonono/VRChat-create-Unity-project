@@ -1,0 +1,19 @@
+{
+    "VRCSDK2": {
+        "source": "VRChat",
+        "RequiredCondition": "required",
+        "url": "https://vrchat.com/download/sdk2"
+    },
+    "DynamicBone": {
+        "source": "AssetStore",
+        "RequiredCondition": "ifAny",
+        "file": "\\Will Hong\\ScriptingAnimation\\Dynamic Bone.unitypackage"
+    },
+    "UTS2": {
+        "source": "Github",
+        "RequiredCondition": "required",
+        "project": "unity3d-jp",
+        "repository": "UnityChanToonShaderVer2_Project",
+        "file": "UTS2_ShaderOnly_*_Release.unitypackage"
+    }
+}
